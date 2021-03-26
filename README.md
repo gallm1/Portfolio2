@@ -17,6 +17,12 @@ What was able to create successfully:
         -- Created link to email
         -- Created link to GitHub Profile
         -- Added LinkedIn profile (barebones)
+About Me
+![image](https://github.com/gallm1/Portfolio2/blob/main/assets/images/Portfolio_About_Me.png)
+Work Main
+![image](https://github.com/gallm1/Portfolio2/blob/main/assets/images/Work_Main.png)
+Sub Work and Contact
+![image](https://github.com/gallm1/Portfolio2/blob/main/assets/images/Sub_Work_Contact_Me.png)
 
 ## Table of Contents (Optional)
 None
