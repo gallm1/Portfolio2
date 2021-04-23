@@ -22,7 +22,7 @@ header {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    padding: 1%;
+    padding: 1% 5% 1% 3%;
     background-color: var(--dark);
     color: var(--white);
     border-radius: 20px; 
@@ -31,7 +31,7 @@ header {
 }
 
 h1 {
-    font-size: 200%;
+    font-size: 220%;
 
 }
 
@@ -40,9 +40,14 @@ nav ul {
     flex-wrap: wrap;
     justify-content: space-between;
     min-width: 600px;
-    text-decoration-color: var(--white);
-    font-size: 22px;
+    font-size: 24px;
     list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: var(--white);
+    font-weight: bold;
 }
 
 h2 {
@@ -103,9 +108,13 @@ h2 {
     flex-wrap: wrap;
     justify-content: space-around;
     list-style: none;
-    font: var(--dark); 
     font-weight: bold;
     padding: 0 200px 0 200px; 
+}
+
+#Contact-Me ul li a {
+    color: var(--dark);
+    font-weight: bold;
 }
 
 @media screen and (max-width: 768px) {
@@ -121,7 +130,5 @@ h2 {
     nav {
         max-width: 375px;
         flex-direction: column;
-        
-
     }
 }
